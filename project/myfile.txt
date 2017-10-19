@@ -1,3 +1,1 @@
-add
-commmit in branch test1
-pull
+merge abort test for chk-branch
